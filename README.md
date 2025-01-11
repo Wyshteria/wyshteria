@@ -1,3 +1,4 @@
+markdown.safehtml
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning :
+  ![Wyshteria's TryHackMe Image Badge](https://tryhackme-badges.s3.amazonaws.com/Wyshteria.png)
