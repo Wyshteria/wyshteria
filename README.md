@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning : InfoSec at TryHackMe
-- ![Wyshteria's TryHackMe Image Badge](https://tryhackme-badges.s3.amazonaws.com/Wyshteria.png)
+  ![Wyshteria's TryHackMe Image Badge](https://tryhackme-badges.s3.amazonaws.com/Wyshteria.png)
