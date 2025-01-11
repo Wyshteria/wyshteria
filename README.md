@@ -1,4 +1,3 @@
-markdown.safehtml
 ## Hi there 👋
 
 <!--
