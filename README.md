@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning : InfoSec at TryHackMe
+- 🌱 I’m currently learning on TryHackMe
   ![Wyshteria's TryHackMe Image Badge](https://tryhackme-badges.s3.amazonaws.com/Wyshteria.png)
